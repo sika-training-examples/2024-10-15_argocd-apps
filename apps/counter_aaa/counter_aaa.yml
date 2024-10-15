@@ -22,6 +22,6 @@ spec:
     helm:
       valuesObject:
         host: counter-aaa.demo.sikalabs.io
-        backendImage: ondrejsika/counter-with-text:v2
+        backendImage: registry.sikalabs.com/examples/training-2024-10-14/counter-with-text:master-daaa6fe1-64045
         backendReplicas: 3
         frontendReplicas: 3
