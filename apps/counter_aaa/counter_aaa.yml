@@ -21,6 +21,6 @@ spec:
     path: .
     helm:
       valuesObject:
-        host: counter-aaa.k8s.sikademo.com
+        host: counter-aaa.demo.sikalabs.io
         backendReplicas: 3
         frontendReplicas: 3
