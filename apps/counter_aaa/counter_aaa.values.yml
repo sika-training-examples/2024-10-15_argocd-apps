@@ -1,0 +1,3 @@
+host: counter-aaa.demo.sikalabs.io
+backendReplicas: 3
+frontendReplicas: 3
